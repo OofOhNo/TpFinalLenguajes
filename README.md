@@ -22,13 +22,15 @@ este proyecto desarrolla tres analisis:
 
 1. presupuesto vs rating
 
-se calcula la correlacion entre presupuesto y rating utilizando metodos pearson y spearman. se incluye un grafico de dispersion para visualizar la relacion.
+se calcula la correlacion entre presupuesto y rating usando pearson y spearman. se arma tambien un grafico de dispersion para ver si efectivamente hay relacion o si es puro humo.
 
-2. evolucion del runtime por decadas
+2. duracion de peliculas por decada
 
-se analiza como varia la duracion de las peliculas a lo largo de las decadas. se utiliza la mediana para evitar el efecto de valores extremos.
+se analiza como fueron cambiando las duraciones a lo largo del tiempo. se usan medianas para que no molesten los valores raros.
 
-3. directores con mejor rating promedio
+3. directores con mejor promedio de rating
 
-se identifican los directores con mayor rating promedio, considerando un minimo de peliculas para asegurar consistencia. se genera una tabla ordenada y un archivo json con los mejores directores.
+se arma un ranking de directores con mejor rating promedio, filtrando por una cantidad minima de peliculas asi no aparece alguno con una sola peli de suerte.
+
+
 
