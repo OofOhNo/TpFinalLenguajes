@@ -33,4 +33,13 @@ se analiza como fueron cambiando las duraciones a lo largo del tiempo. se usan m
 se arma un ranking de directores con mejor rating promedio, filtrando por una cantidad minima de peliculas asi no aparece alguno con una sola peli de suerte.
 
 
+como correr todo:
+
+pip install -r requirements.txt
+python main.py
+
+
+como levantar la api:
+
+uvicorn app:app --reload
 
