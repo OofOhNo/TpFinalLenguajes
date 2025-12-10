@@ -1,0 +1,252 @@
+[
+    {
+        "director":"Christopher Nolan",
+        "movies_count":8,
+        "avg_rating":7.8
+    },
+    {
+        "director":"Quentin Tarantino",
+        "movies_count":8,
+        "avg_rating":7.775
+    },
+    {
+        "director":"Stanley Kubrick",
+        "movies_count":6,
+        "avg_rating":7.6833333333
+    },
+    {
+        "director":"Frank Capra",
+        "movies_count":5,
+        "avg_rating":7.62
+    },
+    {
+        "director":"David Lynch",
+        "movies_count":5,
+        "avg_rating":7.44
+    },
+    {
+        "director":"Wes Anderson",
+        "movies_count":7,
+        "avg_rating":7.4142857143
+    },
+    {
+        "director":"David Fincher",
+        "movies_count":10,
+        "avg_rating":7.34
+    },
+    {
+        "director":"Peter Jackson",
+        "movies_count":9,
+        "avg_rating":7.3333333333
+    },
+    {
+        "director":"James Cameron",
+        "movies_count":7,
+        "avg_rating":7.3285714286
+    },
+    {
+        "director":"Martin Scorsese",
+        "movies_count":20,
+        "avg_rating":7.295
+    },
+    {
+        "director":"Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
+        "movies_count":6,
+        "avg_rating":7.2333333333
+    },
+    {
+        "director":"Paul Thomas Anderson",
+        "movies_count":6,
+        "avg_rating":7.2166666667
+    },
+    {
+        "director":"Fred Zinnemann",
+        "movies_count":5,
+        "avg_rating":7.2
+    },
+    {
+        "director":"Stephen Daldry",
+        "movies_count":5,
+        "avg_rating":7.12
+    },
+    {
+        "director":"Alfred Hitchcock",
+        "movies_count":8,
+        "avg_rating":7.05
+    },
+    {
+        "director":"Roman Polanski",
+        "movies_count":6,
+        "avg_rating":7.0333333333
+    },
+    {
+        "director":"Danny Boyle",
+        "movies_count":8,
+        "avg_rating":7.0125
+    },
+    {
+        "director":"Darren Aronofsky",
+        "movies_count":6,
+        "avg_rating":7.0
+    },
+    {
+        "director":"Francis Ford Coppola",
+        "movies_count":12,
+        "avg_rating":6.975
+    },
+    {
+        "director":"Steven Spielberg",
+        "movies_count":27,
+        "avg_rating":6.9740740741
+    },
+    {
+        "director":"Sidney Lumet",
+        "movies_count":6,
+        "avg_rating":6.9666666667
+    },
+    {
+        "director":"George Lucas",
+        "movies_count":5,
+        "avg_rating":6.96
+    },
+    {
+        "director":"James Wan",
+        "movies_count":7,
+        "avg_rating":6.9571428571
+    },
+    {
+        "director":"Richard Linklater",
+        "movies_count":11,
+        "avg_rating":6.9545454545
+    },
+    {
+        "director":"Michael Moore",
+        "movies_count":6,
+        "avg_rating":6.95
+    },
+    {
+        "director":"Paul Greengrass",
+        "movies_count":7,
+        "avg_rating":6.9285714286
+    },
+    {
+        "director":"Lasse Hallstr\u00f6m",
+        "movies_count":9,
+        "avg_rating":6.9222222222
+    },
+    {
+        "director":"Robert Zemeckis",
+        "movies_count":13,
+        "avg_rating":6.9153846154
+    },
+    {
+        "director":"Sam Mendes",
+        "movies_count":7,
+        "avg_rating":6.9142857143
+    },
+    {
+        "director":"Terry Gilliam",
+        "movies_count":7,
+        "avg_rating":6.8857142857
+    },
+    {
+        "director":"Mel Brooks",
+        "movies_count":6,
+        "avg_rating":6.8833333333
+    },
+    {
+        "director":"Alexander Payne",
+        "movies_count":5,
+        "avg_rating":6.88
+    },
+    {
+        "director":"Clint Eastwood",
+        "movies_count":20,
+        "avg_rating":6.865
+    },
+    {
+        "director":"Jean-Pierre Jeunet",
+        "movies_count":5,
+        "avg_rating":6.86
+    },
+    {
+        "director":"Kenneth Branagh",
+        "movies_count":7,
+        "avg_rating":6.8571428571
+    },
+    {
+        "director":"Gus Van Sant",
+        "movies_count":7,
+        "avg_rating":6.8571428571
+    },
+    {
+        "director":"Guy Ritchie",
+        "movies_count":7,
+        "avg_rating":6.8571428571
+    },
+    {
+        "director":"Edward Zwick",
+        "movies_count":7,
+        "avg_rating":6.8571428571
+    },
+    {
+        "director":"Francis Lawrence",
+        "movies_count":5,
+        "avg_rating":6.84
+    },
+    {
+        "director":"Joel Coen",
+        "movies_count":11,
+        "avg_rating":6.8090909091
+    },
+    {
+        "director":"Doug Liman",
+        "movies_count":7,
+        "avg_rating":6.8
+    },
+    {
+        "director":"Jonathan Demme",
+        "movies_count":5,
+        "avg_rating":6.78
+    },
+    {
+        "director":"David Cronenberg",
+        "movies_count":7,
+        "avg_rating":6.7714285714
+    },
+    {
+        "director":"Joe Wright",
+        "movies_count":6,
+        "avg_rating":6.7666666667
+    },
+    {
+        "director":"Ang Lee",
+        "movies_count":8,
+        "avg_rating":6.7625
+    },
+    {
+        "director":"Mike Leigh",
+        "movies_count":5,
+        "avg_rating":6.76
+    },
+    {
+        "director":"Tim Burton",
+        "movies_count":14,
+        "avg_rating":6.7285714286
+    },
+    {
+        "director":"James Mangold",
+        "movies_count":8,
+        "avg_rating":6.7125
+    },
+    {
+        "director":"Guillermo del Toro",
+        "movies_count":5,
+        "avg_rating":6.7
+    },
+    {
+        "director":"John Landis",
+        "movies_count":5,
+        "avg_rating":6.7
+    }
+]
