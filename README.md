@@ -33,13 +33,22 @@ se analiza como fueron cambiando las duraciones a lo largo del tiempo. se usan m
 se arma un ranking de directores con mejor rating promedio, filtrando por una cantidad minima de peliculas asi no aparece alguno con una sola peli de suerte.
 
 
-como correr todo:
+mini api local
 
-pip install -r requirements.txt
-python main.py
+la api esta en la carpeta /api y expone tres endpoints simples:
 
+/correlacion_budget_rating
+/runtime_por_decada
+/directores_top
 
-como levantar la api:
+como levantar la api
 
-uvicorn app:app --reload
+desde la carpeta principal del proyecto correr:
 
+uvicorn api.app:app --reload --port 8000
+
+dependencias
+
+instalar con pip:
+
+pip install fastapi uvicorn pandas
