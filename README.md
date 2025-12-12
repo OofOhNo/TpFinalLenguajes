@@ -1,5 +1,8 @@
 # Tp Final Lenguajes
 
+link video: https://youtu.be/qzCfawtn-mE
+
+
 descripcion general
 
 este proyecto corresponde al trabajo final de la materia lenguajes 2025 (ucalp). el objetivo es analizar el dataset tmdb 5000 movies utilizando python, realizar analisis descriptivos, generar graficos, producir un informe academico y exponer resultados a traves de una mini api local.
